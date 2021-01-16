@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dom-react-manipulation/static/css/main.3f1c3b67.chunk.css",
-    "main.js": "/dom-react-manipulation/static/js/main.ebb5bb64.chunk.js",
-    "main.js.map": "/dom-react-manipulation/static/js/main.ebb5bb64.chunk.js.map",
-    "runtime-main.js": "/dom-react-manipulation/static/js/runtime-main.76a879c1.js",
-    "runtime-main.js.map": "/dom-react-manipulation/static/js/runtime-main.76a879c1.js.map",
-    "static/js/2.7501e837.chunk.js": "/dom-react-manipulation/static/js/2.7501e837.chunk.js",
-    "static/js/2.7501e837.chunk.js.map": "/dom-react-manipulation/static/js/2.7501e837.chunk.js.map",
-    "static/js/3.e00a9c2f.chunk.js": "/dom-react-manipulation/static/js/3.e00a9c2f.chunk.js",
-    "static/js/3.e00a9c2f.chunk.js.map": "/dom-react-manipulation/static/js/3.e00a9c2f.chunk.js.map",
-    "index.html": "/dom-react-manipulation/index.html",
-    "static/css/main.3f1c3b67.chunk.css.map": "/dom-react-manipulation/static/css/main.3f1c3b67.chunk.css.map",
-    "static/js/2.7501e837.chunk.js.LICENSE.txt": "/dom-react-manipulation/static/js/2.7501e837.chunk.js.LICENSE.txt"
+    "main.css": "/Dom-React-manipulation/static/css/main.3f1c3b67.chunk.css",
+    "main.js": "/Dom-React-manipulation/static/js/main.ebb5bb64.chunk.js",
+    "main.js.map": "/Dom-React-manipulation/static/js/main.ebb5bb64.chunk.js.map",
+    "runtime-main.js": "/Dom-React-manipulation/static/js/runtime-main.dac8a3ad.js",
+    "runtime-main.js.map": "/Dom-React-manipulation/static/js/runtime-main.dac8a3ad.js.map",
+    "static/js/2.7501e837.chunk.js": "/Dom-React-manipulation/static/js/2.7501e837.chunk.js",
+    "static/js/2.7501e837.chunk.js.map": "/Dom-React-manipulation/static/js/2.7501e837.chunk.js.map",
+    "static/js/3.e00a9c2f.chunk.js": "/Dom-React-manipulation/static/js/3.e00a9c2f.chunk.js",
+    "static/js/3.e00a9c2f.chunk.js.map": "/Dom-React-manipulation/static/js/3.e00a9c2f.chunk.js.map",
+    "index.html": "/Dom-React-manipulation/index.html",
+    "static/css/main.3f1c3b67.chunk.css.map": "/Dom-React-manipulation/static/css/main.3f1c3b67.chunk.css.map",
+    "static/js/2.7501e837.chunk.js.LICENSE.txt": "/Dom-React-manipulation/static/js/2.7501e837.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.76a879c1.js",
+    "static/js/runtime-main.dac8a3ad.js",
     "static/js/2.7501e837.chunk.js",
     "static/css/main.3f1c3b67.chunk.css",
     "static/js/main.ebb5bb64.chunk.js"
